@@ -5,7 +5,7 @@ import xlwt
 import ENV
 
 Jnum, Onum, Pnum, Fnum, Mnum = 60, 4, 6, 2, 6
-schedule_instance_name = 'D:\\学校\\学习\\python\\Paper\\DAFSP\\data\\' + str(Jnum) + '_' + str(Pnum) + '.pkl'
+schedule_instance_name = 'D:\\学校\\学习\\python\\Paper\\DAFSP\\data\\' + 'real-life example' + '.pkl'
 # f_read = open(schedule_instance_name, 'rb')
 # schedule_instance = pickle.load(f_read)
 # index = 0
